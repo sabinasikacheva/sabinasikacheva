@@ -1,9 +1,12 @@
 # Hi there, My name is Sabina and I'm a frontend developer.
 
-💻 I'm passionate about creating beautiful and functional interfaces. 
-🔭 I’m currently working on my pet projects.
-🎯 My goal is to become an expert in web development and and make valuable contributions to project development.
-📩 I'm excited about new projects and  the opportunities they offer for personal growth and development!
+💻 I'm passionate about creating beautiful and functional interfaces.  
+
+🔭 I’m currently working on my pet projects.  
+
+🎯 My goal is to become an expert in web development and and make valuable contributions to project development.  
+
+📩 I'm excited about new projects and  the opportunities they offer for personal growth and development!  
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinasikacheva&layout=compact)](https://github.com/sabinasikacheva/github-readme-stats)
 
