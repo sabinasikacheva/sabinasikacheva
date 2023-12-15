@@ -1,4 +1,4 @@
-# Hi there, My name is Sabina and I'm a frontend developer.
+# Hi there, My name is Sabina and I'm studying to be a front-end developer.
 
 💻 I'm passionate about creating beautiful and functional interfaces.  
 
