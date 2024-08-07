@@ -1,10 +1,10 @@
 # Hi there, My name is Sabina and I'm studying to be a front-end developer.
 
-💻 I try to improve my skills every day, gain new knowledge.
+💻 I'm constantly learning.
 
 🔭 I’m currently working on my pet projects.  
 
-🎯 My goal is to become an expert in web development and and make valuable contributions to project development.  
+🎯 My goal is to become a pro in web development and add value to every project I work on.  
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinasikacheva&layout=compact)](https://github.com/sabinasikacheva/github-readme-stats)
 
